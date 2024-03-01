@@ -1,0 +1,46 @@
+# wnacg
+# > 紳士漫畫地址發布頁（或發送郵件到wnacg.link@gmail.com獲取最新地址）
+# >> https://www.wnacg.link/
+DOMAIN-SUFFIX,wnacg.link
+# >> https://wn01.ru/
+DOMAIN-SUFFIX,wn01.ru
+# >> https://wn02.ru/
+DOMAIN-SUFFIX,wn02.ru
+# > wnacg domains
+DOMAIN-SUFFIX,wnacg.com
+DOMAIN-SUFFIX,hentaicomic.ru
+# >> https://www.hm1.lol
+DOMAIN-SUFFIX,hm1.lol
+# >> https://www.wn04.lol
+DOMAIN-SUFFIX,wn04.lol
+# >> https://www.wn05.lol
+DOMAIN-SUFFIX,wn05.lol
+# >> https://www.wn2.lol
+DOMAIN-SUFFIX,wn2.lol
+# >> https://www.wn3.lol/
+DOMAIN-SUFFIX,wn3.lol
+# >> https://www.wn4.lol/
+DOMAIN-SUFFIX,wn4.lol
+# >> https://www.wn5.lol/
+DOMAIN-SUFFIX,wn5.lol
+# > Image server of the wnacg web site
+DOMAIN-SUFFIX,qy0.ru
+# > Download server of the wnacg web site
+DOMAIN-SUFFIX,wzip.ru
+
+
+# 18comic.vip
+DOMAIN-SUFFIX,18comic.vip
+
+
+# manhuagui.com
+DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,hamreus.com
+
+
+# manhuaren.com
+DOMAIN-SUFFIX,manhuaren.com
+
+
+# www.69shu.com
+DOMAIN-SUFFIX,69shu.com
