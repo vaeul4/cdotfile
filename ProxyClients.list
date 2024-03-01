@@ -1,0 +1,10 @@
+# common proxy utils
+PROCESS-NAME,v2ray
+PROCESS-NAME,Surge
+PROCESS-NAME,ss-local
+PROCESS-NAME,privoxy
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,naive
+PROCESS-NAME,CloudflareWARP
+PROCESS-NAME,Cloudflare WARP
