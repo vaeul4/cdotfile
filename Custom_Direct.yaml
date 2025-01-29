@@ -1,5 +1,2 @@
 payload:
-  - DOMAIN-SUFFIX,bulianglin.com
-  - DOMAIN-SUFFIX,phind.com
-  - DOMAIN-SUFFIX,kejilion.pro
-  - DOMAIN,in.appcenter.ms
+  - IP-CIDR,46.151.29.35/32
