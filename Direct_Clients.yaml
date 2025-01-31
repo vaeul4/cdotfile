@@ -1,5 +1,3 @@
 payload:
   - PROCESS-NAME,Baidu
-  - PROCESS-NAME,Baidu.exe
-  - IP-CIDR,198.18.0.1/32
-  
+  - PROCESS-NAME,Baidu.exe  
