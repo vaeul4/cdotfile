@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,sigma-team.net
+  - IP-CIDR,216.239.34.223/32
